@@ -5,3 +5,5 @@ Los archivos son para recordar mis avances.
 * Arboles binarios
 * Matrices de abyacencia
 * Polinomios
+
+Finalmente agradecer a todos lo que me apoyaron: Mi madre ,Mi padre y el profesor chevreque como chamfle (Pablo Ortiz)
