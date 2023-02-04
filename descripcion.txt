@@ -1,0 +1,7 @@
+Despues de tres intentos termino mi camino por este curso. Apredí mucho, pero es un culero XD.
+Los archivos son para recordar mis avances.
+* Lista
+* Grafos
+* Arboles binarios
+* Matrices de abyacencia
+* Polinomios
